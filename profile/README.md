@@ -14,11 +14,11 @@ frosting, decorations, sprinkles, etc. From there, the machine learning
 algorithm kicks in and determines the exact flavors and fillings of the
 chocolates.
 
-## Wire Frames
+## Wire Frames and Features
 
 See [the Miro
 board](https://miro.com/app/board/uXjVPtS9CVY=/?share_link_id=444850348573) for
-Ripe Banana.
+Ripe Banana. Included is a feature list, categorized using MoSCoW.
 
 ## Database Schema
 
